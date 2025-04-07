@@ -1,0 +1,11 @@
+*.aux
+*.snm
+*.nav
+*.out
+*.toc
+*.vrb
+*.nav
+*.out
+*.toc
+*.vrb
+build/
