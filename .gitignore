@@ -8,4 +8,6 @@
 *.out
 *.toc
 *.vrb
+*.pdf
+*.log
 build/
